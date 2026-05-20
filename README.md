@@ -39,3 +39,27 @@ An AI-powered resume and interview preparation tool built with React, Vite, Tail
 - **Job Description Analysis**: Compare the parsed resume text against a Job Description.
 - **Gemini Integration**: Get Match Score, Missing Skills, Rewritten Bullets, and likely Interview Questions using the Groq LLaMA API.
 - **Save Sessions**: Stores analysis history in Firebase Firestore.
+
+
+## Screenshots
+
+<img width="2234" height="1278" alt="image" src="https://github.com/user-attachments/assets/e21ba7f1-bba5-4a52-aca1-ab6589e0f05c" />
+
+<img width="2132" height="1248" alt="image" src="https://github.com/user-attachments/assets/9041b38b-8811-4d84-a28a-85c0540f9524" />
+
+<img width="2120" height="1234" alt="image" src="https://github.com/user-attachments/assets/d248191c-09c4-4142-a0bc-9aeae6108de5" />
+
+<img width="2102" height="1258" alt="image" src="https://github.com/user-attachments/assets/ffbfba9c-ffc6-48cc-a879-e51f37046e2a" />
+
+<img width="1904" height="1262" alt="image" src="https://github.com/user-attachments/assets/1570bbff-e492-4337-ad11-49c80cf39014" />
+
+
+
+## Live Demo
+
+Live Link: https://careercoach-ai-8bec0.web.app/
+
+
+## GitHub Repository
+
+GitHub: https://github.com/Kajal-Kumari0606/careercoach-ai
